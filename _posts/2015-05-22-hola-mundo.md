@@ -5,8 +5,6 @@ comments: true
 redirect_from: "/2015/05/22/hola/"
 ---
 
-![The Gamma-cygni SNR observed by Fermi. This image was created in pointlike and is from http://arxiv.org/abs/1207.0027.](/assets/gamma_cygni_pointlike-940x935.jpg)
-
 During graduate school, I was involved with the development of pointlike, a package for fitting data observed by the [Fermi Gamma-ray space telescope](http://fermi.gsfc.nasa.gov).
 
 ## Design
