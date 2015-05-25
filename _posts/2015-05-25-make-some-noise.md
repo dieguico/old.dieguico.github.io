@@ -5,8 +5,10 @@ comments: true
 permalink: "make-some-noise"
 ---
 
-*This is the first post in this blog
+*This is the first post, don't be too mean 😜.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In this blog I want to share some of the questions/ideas/projects that came to my mind, and their answers/thoughts/progress. Most of them are nonsense (as I realize short after –but not short enough 😅), while there are some that I consider interesting to share. I'll write this blog in english, not because I like it, which I do, but as an exercise to improve and a way to reach a broader audience (we are 7 billion people, let me be optimistic).
+
+I will talk about physics, data science, photography, running, ukuleles, parenting and gadgets. If I need to write code I will mainly use ``python`` and ``Mathematica`` , and sometimes ``gnuplot`` to make figures.
 
 {% include twitter_plug.html %}
