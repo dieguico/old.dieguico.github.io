@@ -2,7 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
+  
   {% include google_analytics.html %}
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   <body>
 
@@ -14,7 +16,13 @@
           {% for page in site.pages_list %}
               &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
-
+	  &nbsp;&nbsp;&nbsp;&mdash;&nbsp;&nbsp;&nbsp;
+          <a href="https://twitter.com/dieguico" target="_blank">
+            <i class="fa fa-twitter"></i></a>
+          <a href="https://flickr.com/dieguico" target="_blank">
+            <i class="fa fa-flickr"></i></a>
+          <a href="https://github.com/dieguico" target="_blank">
+            <i class="fa fa-github"></i></a>
         </h3>
       </div>
 
