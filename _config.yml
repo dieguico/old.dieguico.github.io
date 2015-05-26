@@ -36,3 +36,9 @@ pages_list:
 #  * https://help.github.com/articles/redirects-on-github-pages
 gems:
   - jekyll-redirect-from
+  
+# Includes an icon in the footer for each user name you enter
+footer-links:
+  github: dieguico
+  twitter: dieguico
+  flickr: dieguico
