@@ -203,10 +203,10 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  /*margin: 0 0 1rem;*/
+  margin: 0 auto;  /*centers the image*/
   border-radius: 5px;
 }
-
 /* Tables */
 table {
   margin-bottom: 1rem;
@@ -348,6 +348,7 @@ tbody tr:nth-child(odd) th {
 .related-posts li a:hover small {
   color: inherit;
 }
+
 
 
 /*
