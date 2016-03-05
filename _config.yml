@@ -1,7 +1,7 @@
 # Dependencies
-markdown:         redcarpet
-redcarpet:
-  extensions: ["tables"]
+# markdown:         redcarpet
+#redcarpet:
+#  extensions: ["tables"]
 
 highlighter: pygments
 
@@ -18,7 +18,7 @@ author:
   name:           'Diego Villuendas'
   url:            https://twitter.com/dieguico
 
-paginate:         1
+paginate:         5
 
 # Custom vars
 version:          1.0.0
@@ -27,12 +27,13 @@ github:
   repo:           github.com/joshualande/dieguico.github.io
 
 # This is the list of pages to include in the header of the website.
-pages_list:       
+pages_list:
   Me: '/about/'
   Archive: '/archive/'
 #  Feed: '/atom.xml'
 
-# Allow URL Redirects: 
+# Allow URL Redirects:
 #  * https://help.github.com/articles/redirects-on-github-pages
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
